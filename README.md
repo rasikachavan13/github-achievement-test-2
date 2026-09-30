@@ -23,3 +23,11 @@ The goal is to become more comfortable with Git and GitHub while building consis
 ---
 
 Made while learning Git & GitHub 💻
+
+## 🌱 Current Learning Goals
+
+- Improve problem-solving with DSA
+- Learn C++ for competitive programming
+- Build projects with web technologies
+- Explore AI and machine learning
+- Contribute to open-source projects
